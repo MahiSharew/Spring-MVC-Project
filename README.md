@@ -10,8 +10,8 @@
 4.JSP
 
 # Project looks like  
-![HProject looks like design](https://github.com/MahiSharew/Spring-MVC-Project/blob/master/studentConfirmation.png)
+![HProject looks like design](https://github.com/MahiSharew/Spring-MVC-Project/blob/master/StudentForm.png)
 
 
-https://github.com/MahiSharew/Spring-MVC-Project/blob/master/studentConfirmation.png
+(https://github.com/MahiSharew/Spring-MVC-Project/blob/master/studentConfirmation.png)
 
