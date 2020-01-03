@@ -2,8 +2,13 @@ package com.springmvc;
 
 import java.util.LinkedHashMap;
 
+import javax.validation.constraints.NotNull;
+import javax.validation.constraints.Size;
+
 public class Student {
 	private String firstName;
+	@NotNull(message="Required")
+	@Size(min=1, message="Required")
 	private String lastName;
 	private String country; 
 	private LinkedHashMap<String,String> countryoption; 
